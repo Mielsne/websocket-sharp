@@ -6,6 +6,7 @@
     <AssemblyTitle>Example</AssemblyTitle>
     <Copyright>sta.blockhead</Copyright>
     <AssemblyVersion>1.0.%2a</AssemblyVersion>
+	  <IsPackable>false</IsPackable>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug</OutputPath>
