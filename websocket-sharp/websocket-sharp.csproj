@@ -11,7 +11,11 @@
     <Product>websocket-sharp.dll</Product>
     <Copyright>sta.blockhead</Copyright>
     <AssemblyVersion>1.0.2.%2a</AssemblyVersion>
-  </PropertyGroup>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Include="..\\README.md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug</OutputPath>
     <ConsolePause>false</ConsolePause>
