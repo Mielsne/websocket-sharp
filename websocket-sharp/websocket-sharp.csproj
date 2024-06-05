@@ -12,6 +12,7 @@
     <Copyright>sta.blockhead</Copyright>
     <AssemblyVersion>1.0.2.%2a</AssemblyVersion>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	  <PackageId>websocket-sharp-netstandard.35809479</PackageId>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Include="..\\README.md" Pack="true" PackagePath="\"/>
