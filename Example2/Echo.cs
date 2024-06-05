@@ -1,4 +1,3 @@
-using System;
 using WebSocketSharp;
 using WebSocketSharp.Server;
 

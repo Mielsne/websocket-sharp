@@ -1,8 +1,5 @@
 using System;
-using System.Configuration;
-using System.Security.Cryptography.X509Certificates;
 using WebSocketSharp;
-using WebSocketSharp.Net;
 using WebSocketSharp.Server;
 
 namespace Example2

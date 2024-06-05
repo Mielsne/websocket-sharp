@@ -1,7 +1,6 @@
 using System;
 using System.Threading;
 using WebSocketSharp;
-using WebSocketSharp.Net;
 
 namespace Example
 {
